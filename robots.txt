@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rochesterrestorationco.com/sitemap.xml
